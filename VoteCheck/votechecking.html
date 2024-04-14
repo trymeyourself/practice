@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Vote checking</title>
+</head>
+<body>
+    <h1>Vote checking</h1>
+    
+    <script>
+
+function checkVotingEligibility(age, _id) {
+    if (age >= 18) {
+        if (_id=="aadhar" || _id=="voterid" || _id=="pancard" || _id=="passport" || _id=="rationcard") {
+            alert( "You are eligible to vote!");
+        } else {
+            alert( "You are eligible to vote, but you need to provide one of the required IDs.");
+        }
+    } else {
+        alert("You are not eligible to vote yet.");
+    }
+}
+
+
+console.log(checkVotingEligibility(parseInt(prompt("Enter your age:")), prompt("Enter your ID NAME:")));
+
+    </script>
+</body>
+</html>

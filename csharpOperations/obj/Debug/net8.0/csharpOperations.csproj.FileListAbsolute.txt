@@ -1,0 +1,14 @@
+C:\Users\agk\Desktop\practical\csharpOperations\bin\Debug\net8.0\csharpOperations.exe
+C:\Users\agk\Desktop\practical\csharpOperations\bin\Debug\net8.0\csharpOperations.deps.json
+C:\Users\agk\Desktop\practical\csharpOperations\bin\Debug\net8.0\csharpOperations.runtimeconfig.json
+C:\Users\agk\Desktop\practical\csharpOperations\bin\Debug\net8.0\csharpOperations.dll
+C:\Users\agk\Desktop\practical\csharpOperations\bin\Debug\net8.0\csharpOperations.pdb
+C:\Users\agk\Desktop\practical\csharpOperations\obj\Debug\net8.0\csharpOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agk\Desktop\practical\csharpOperations\obj\Debug\net8.0\csharpOperations.AssemblyInfoInputs.cache
+C:\Users\agk\Desktop\practical\csharpOperations\obj\Debug\net8.0\csharpOperations.AssemblyInfo.cs
+C:\Users\agk\Desktop\practical\csharpOperations\obj\Debug\net8.0\csharpOperations.csproj.CoreCompileInputs.cache
+C:\Users\agk\Desktop\practical\csharpOperations\obj\Debug\net8.0\csharpOperations.dll
+C:\Users\agk\Desktop\practical\csharpOperations\obj\Debug\net8.0\refint\csharpOperations.dll
+C:\Users\agk\Desktop\practical\csharpOperations\obj\Debug\net8.0\csharpOperations.pdb
+C:\Users\agk\Desktop\practical\csharpOperations\obj\Debug\net8.0\csharpOperations.genruntimeconfig.cache
+C:\Users\agk\Desktop\practical\csharpOperations\obj\Debug\net8.0\ref\csharpOperations.dll

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Operations</title>
+</head>
+<body>
+    
+
+    <script>
+function performOperations() {
+    let num1 = parseFloat(prompt("Enter the first number:"));
+    let num2 = parseFloat(prompt("Enter the second number:"));
+
+    let operation = prompt("Select a number to do the operation: \n1. Addition (+) \n2. Subtraction (-) \n3. Multiplication (*) \n4. Division (/) \n5. Modulus (%) \n6. Greater than (>) \n7. Less than (<) \n8. Equal to (===) \n9. Not equal to (!==) \n10. Greater than or equal to (>=) \n11. Less than or equal to (<=)");
+
+    let result;
+    switch (operation) {
+        case "1":
+            result = num1 + num2;
+            break;
+        case "2":
+            result = num1 - num2;
+            break;
+        case "3":
+            result = num1 * num2;
+            break;
+        case "4":
+            result = num1 / num2;
+            break;
+        case "5":
+            result = num1 % num2;
+            break;
+        case "6":
+            result = num1 > num2;
+            break;
+        case "7":
+            result = num1 < num2;
+            break;
+        case "8":
+            result = num1 === num2;
+            break;
+        case "9":
+            result = num1 !== num2;
+            break;
+        case "10":
+            result = num1 >= num2;
+            break;
+        case "11":
+            result = num1 <= num2;
+            break;
+        default:
+            alert("Invalid operation!");
+            return;
+    }
+
+    alert("Result: " + result);
+}
+
+performOperations();
+
+
+    </script>
+</body>
+</html>
